@@ -16,5 +16,8 @@ Overall, the project aims to provide actionable insights into YouTube trends, of
 
 ## Acknowledgments
 
-This project is based on the Northwind database and its documentation provided for educational purposes.
-(Dataset is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School)
+Dataset has been extracted through the Youtube API and made available on the Kaggle (https://www.kaggle.com/rsrishav/youtube-trending-video-dataset)
+
+This dataset includes several months (from 2020-08-12 to today) of data of daily trending YouTube videos. Data is included for the IN, US, GB, DE, CA, FR, RU, BR, MX, KR, and JP regions (India, USA, Great Britain, Germany, Canada, France, Russia, Brazil, Mexico, South Korea, and, Japan respectively), with up to 200 listed trending videos per day.
+
+(This task is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School)

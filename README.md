@@ -13,3 +13,8 @@ Please refer to the report in the **Brief of requirements and Report** folder fo
 
 ## Conclusion
 Overall, the project aims to provide actionable insights into YouTube trends, offering recommendations for content creation and promotion strategies in launching a new YouTube Channel. These insights can serve as a foundation for informed decision-making, helping creators maximize their channel's potential for success.
+
+## Acknowledgments
+
+This project is based on the Northwind database and its documentation provided for educational purposes.
+(Dataset is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School)
